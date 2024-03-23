@@ -1,0 +1,19 @@
+.cart {
+    width: 100%;
+    position: relative;
+}
+.cart img{
+    width: 100%;
+    opacity: 0.3;
+}
+.cart h1{
+    position: absolute;
+    top: 10%;
+    font-weight: 200;
+    margin-left: 40px;
+}
+.cart .itemcart p{
+    position: absolute;
+    top: 30%;
+    left: 3.2%;
+}
