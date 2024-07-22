@@ -4,7 +4,7 @@ import { faLock } from '@fortawesome/free-solid-svg-icons'
 import { useNavigate } from 'react-router-dom';
 import Axios from 'axios';
 import React, {useEffect, useState} from 'react';
-import { error } from 'jquery';
+
 
 
 function Signin(){
